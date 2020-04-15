@@ -1,0 +1,34 @@
+.first{
+background-color: red;
+height: 100px;
+width : 100px;
+
+
+
+
+}
+.second
+{
+  background-color: yellow;
+  height: 100px;
+  width : 100px;
+
+  position: absolute;
+  right: 470px;
+
+
+}
+
+
+.third
+{
+  background-color: Blue;
+  height: 100px;
+  width : 100px;
+  position: absolute;
+  right: 370px;
+  top: 200px;
+
+
+
+}

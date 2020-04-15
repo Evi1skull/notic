@@ -1,0 +1,51 @@
+
+
+
+.upper
+{
+   padding-top: 50px ;
+   padding-left: 50px;
+background-color: grey;
+
+margin-top: 0px;
+border-color: black;
+border: solid 10px;
+
+height: 100px;
+width: 100px;
+  display: inline-block;
+}
+
+.center
+{
+  background-color:yellow;
+
+  margin-left: 5px ;
+  margin-top: 0px ;
+  height: 100px;
+  width: 100px;
+  border: solid   10px;
+  border-color: black;
+  padding-left:  40px;
+  padding-top: 40px;
+    display: inline-block;
+}
+
+
+.lower
+{
+  background-color: red ;
+
+
+  height: 100px;
+  width: 100px;
+  border: solid 10px;
+  border-color: black;
+  margin-top: 0px;
+    display: inline-block;
+
+
+
+
+
+}
